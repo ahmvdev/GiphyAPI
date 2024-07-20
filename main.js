@@ -4,7 +4,7 @@ const inputEl = document.querySelector('input');
 
 function imageFetch(){
   const input = inputEl.value;
-  let url = `https://api.giphy.com/v1/gifs/search?api_key=API_KEY_HERE&q=${input}`; //fetching the api here and passing the input value that is typed in the input field
+  let url = `https://api.giphy.com/v1/gifs/search?api_key=API_KEY_HERE&q=${input}`; //fetching the api here and passing the input value of the input field
 fetch(url, {mode:'cors'})
   .then(function(response){
       return response.json();
