@@ -3,7 +3,6 @@
 - Familiarized myself with APIs and fetching information from them.
 - Familiarized myself with then and catch promises.
 
-![VIDEO DEMO](https://github.com/user-attachments/assets/75ef643c-dc7c-49e3-9bd8-7cabcb012469)
-
 [LIVE DEMO](https://giphyapi-lyart.vercel.app/)
 
+![VIDEO DEMO](https://github.com/user-attachments/assets/882d5c09-2256-43c7-be1f-d86af1d4f084)
