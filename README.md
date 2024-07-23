@@ -1,4 +1,4 @@
-# ⚡ Giphy Api
+# ⚡ Giphy Api 
 - Fetches Gifs from the giphy.com Api
 What I learned:
 - Familiarized myself with APIs and fetching information from them.
